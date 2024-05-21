@@ -1,0 +1,4 @@
+[submodule "cpp00"]
+	path = cpp00
+	url = https://github.com/raveriss/cpp05.git
+
