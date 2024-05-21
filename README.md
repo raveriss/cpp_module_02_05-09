@@ -7,7 +7,7 @@
 Ce dépôt documente mon parcours personnel à travers les exercices C++ de cpp05 à cpp09, mettant en lumière ma compréhension et application des principes de la programmation orientée objet, ..., de la gestion de la mémoire et d'autres techniques avancées conformément aux exigences de l'école 42.
 
 ## Table des Matières
-- **cpp05** : 
+- **cpp05** : Repetition and Exceptions.
 - **cpp06** : 
 - **cpp07** : 
 - **cpp08** : 
