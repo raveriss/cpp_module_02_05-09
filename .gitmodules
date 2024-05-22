@@ -1,3 +1,6 @@
 [submodule "cpp05"]
 	path = cpp05
 	url = https://github.com/raveriss/cpp05
+[submodule "cpp06"]
+	path = cpp06
+	url = https://github.com/raveriss/cpp06
