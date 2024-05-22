@@ -8,7 +8,7 @@ Ce dépôt documente mon parcours personnel à travers les exercices C++ de cpp0
 
 ## Table des Matières
 - **cpp05** : Repetition and Exceptions.
-- **cpp06** : 
+- **cpp06** : Casts
 - **cpp07** : 
 - **cpp08** : 
 - **cpp09** : 
