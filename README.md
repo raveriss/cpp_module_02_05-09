@@ -10,8 +10,8 @@ Ce dépôt documente mon parcours personnel à travers les exercices C++ de cpp0
 - **cpp05** : Exceptions
 - **cpp06** : Casts
 - **cpp07** : Template
-- **cpp08** : 
-- **cpp09** : 
+- **cpp08** : Containers templates, itérateurs, algorithmes
+- **cpp09** : STL
 
 ## Installation et Compilation
 Pour compiler un exercice spécifique, naviguez dans son répertoire et utilisez `make` :
